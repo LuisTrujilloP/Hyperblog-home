@@ -1,6 +1,7 @@
 *
 {
     font-family: Arial, Helvetica, sans-serif;
+    color:bisque;
 }
 
 
@@ -12,6 +13,13 @@ body
     height: 2vh;
 }
 .title
+{
+    background-color: teal;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.title h1
 {
     
 }
